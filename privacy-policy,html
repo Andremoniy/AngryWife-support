@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Angry Wife – Privacy Policy</title>
+  <style>
+    :root {
+      --bg: #fff8fb;
+      --card: #ffffff;
+      --text: #2a1f26;
+      --muted: #6f5a67;
+      --accent: #d94f8a;
+      --border: #f0d8e4;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: linear-gradient(180deg, #fff8fb 0%, #fff1f7 100%);
+      color: var(--text);
+      line-height: 1.65;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 32px;
+      box-shadow: 0 10px 30px rgba(40, 20, 30, 0.06);
+      margin: 28px 0;
+    }
+
+    h1, h2 {
+      line-height: 1.2;
+      margin-top: 0;
+    }
+
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 1.25rem;
+      margin-top: 28px;
+      margin-bottom: 10px;
+    }
+
+    p, li {
+      color: var(--text);
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    ul {
+      padding-left: 22px;
+      margin: 10px 0 0;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.95rem;
+      padding: 0 0 18px;
+    }
+
+    code {
+      background: #fff1f6;
+      padding: 2px 6px;
+      border-radius: 6px;
+      font-size: 0.95em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h1>Privacy Policy</h1>
+      <p class="muted"><strong>Effective date:</strong> 5 April 2026</p>
+      <p>
+        This Privacy Policy explains how <strong>Angry Wife</strong> (“the app”) handles information.
+        The app is designed to be simple and privacy-conscious. In general, your data stays on your device unless you choose to export it or contact support.
+      </p>
+
+      <h2>1. Information you enter into the app</h2>
+      <p>
+        The app may store information that you intentionally create, such as:
+      </p>
+      <ul>
+        <li>mood entries</li>
+        <li>selected reasons or notes</li>
+        <li>history used to display trends and predictions</li>
+      </ul>
+      <p>
+        This information is used only to provide the app’s features, such as mood history, pattern detection and next-day prediction.
+      </p>
+
+      <h2>2. Data storage</h2>
+      <p>
+        Unless explicitly stated otherwise inside the app, your data is stored locally on your device.
+        The app does not require account creation for core functionality.
+      </p>
+
+      <h2>3. Internet connectivity</h2>
+      <p>
+        The core functionality of the app does not require an internet connection.
+        If you choose to contact support by email or use external links, those actions may involve third-party services such as your email provider or web browser.
+      </p>
+
+      <h2>4. Data sharing</h2>
+      <p>
+        The app does not sell your personal data.
+        The app does not share your mood history with the developer unless you explicitly choose to export data or send information to support yourself.
+      </p>
+
+      <h2>5. Analytics and tracking</h2>
+      <p>
+        By default, this policy assumes the app does <strong>not</strong> use third-party analytics, advertising SDKs or cross-app tracking.
+      </p>
+      <p>
+        If you later add analytics, crash reporting, advertising or other third-party services, you must update this Privacy Policy and your App Store privacy disclosures accordingly.
+      </p>
+
+      <h2>6. Predictions and app content</h2>
+      <p>
+        Any predictions, trends or pattern insights shown by the app are generated from recorded in-app history and are provided for informational or entertainment purposes only.
+        They are not medical, psychological or professional advice.
+      </p>
+
+      <h2>7. Exported data</h2>
+      <p>
+        If the app allows you to export data, reports or screenshots, the exported content is created at your direction.
+        Once exported, that content may be handled by other apps or services you choose to use, such as Files, Mail or messaging apps.
+      </p>
+
+      <h2>8. Children’s privacy</h2>
+      <p>
+        The app is not intended for children under the age required by applicable App Store rules in your region.
+        The developer does not knowingly collect personal information from children through the app.
+      </p>
+
+      <h2>9. Data deletion</h2>
+      <p>
+        Because data is generally stored locally on your device, you can delete your in-app data by removing entries within the app, if that feature is available, or by deleting the app from your device.
+      </p>
+
+      <h2>10. Changes to this Privacy Policy</h2>
+      <p>
+        This Privacy Policy may be updated from time to time. Any updated version should be published on this page with a revised effective date.
+      </p>
+
+      <h2>11. Contact</h2>
+      <p>
+        If you have questions about this Privacy Policy, you can contact:
+      </p>
+      <p>
+        <a href="mailto:andremoniy@gmail.com">andremoniy@gmail.com</a>
+      </p>
+
+      <h2>12. Important placeholder note</h2>
+      <p>
+        Before publishing this page, replace <code>support@yourdomain.com</code> with your real support email address and review this text to ensure it exactly matches the app’s actual behaviour and App Store privacy answers.
+      </p>
+    </div>
+
+    <div class="footer">
+      © 2026 Angry Wife. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
